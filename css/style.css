@@ -1,0 +1,91 @@
+/* CSS Document */
+table, th, td{
+	border: 3px solid black;	
+}
+th, td{
+	padding: 15px;
+}
+th{
+	font-size:30px;
+}
+body{
+	background-image: url(img/paper_crumpled_light_shadow.jpg);
+}
+/*.images{
+	float: left;
+}
+
+.images:hover{
+	border: 1px thin #000000;
+}
+
+.image1
+{  
+	position: absolute;
+	left: 0px;
+	margin-left: 5%;
+	height: 100%;
+	width: 40%;
+}
+.image2
+{
+	position: absolute;
+	right: 0px;
+	margin-right: 5%;
+	height: 100%;
+	width: 40%;
+}
+.image3{
+	padding-top: 50%;
+	padding-left: 5%;
+	height: 40%;
+	width: 40%;
+}
+.image4{
+	position: absolute;
+	right: 0px;
+	height: 120%;
+	padding-top: 50%;
+	padding-right: 5%;
+	width: 30%;
+}
+.image5{
+	position: absolute;
+	left: 0px;
+	padding-left: 5%;
+	width: 40%;
+	height: 100%;
+	margin-top: 110%;
+}
+.image6{
+	position: absolute;
+	right: 0px;
+	height: 100%;
+	width: 30%;
+	padding-top: 110%;
+	padding-right: 5%;
+}
+.image7{
+	position: absolute;
+	left: 0px;
+	padding-left: 5%;
+	width: 30%;
+	height: 100%;
+	margin-top: 160%
+}*/
+#RT{
+	background-color: firebrick;
+}
+.borderl{
+	width: 10%;
+	float: left;
+}
+.borderr{
+	width: 10%;
+	float: right;
+	right: 0px;
+}
+#SS{
+	background-color: lightseagreen;
+	padding-bottom: 2.8%;
+}
